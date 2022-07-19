@@ -6,6 +6,7 @@ export default function Document() {
         <Html>
             <Head>
                 <Script
+                    id="usercentrics-cmp"
                     strategy="beforeInteractive"
                     src="https://app.usercentrics.eu/browser-ui/latest/loader.js"
                     data-settings-id="FTCT55YTW"
